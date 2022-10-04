@@ -1,0 +1,3 @@
+output "sample" {
+  value = "sample"
+}

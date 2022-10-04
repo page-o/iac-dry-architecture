@@ -1,0 +1,3 @@
+locals {
+  sample = "dev-sample"
+}
